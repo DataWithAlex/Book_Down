@@ -3,7 +3,7 @@
     "path": "~/Library/Mobile Documents/com~apple~CloudDocs/DataWithAlex/Book_Down/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1784756189",
     "contents": "",
     "dirty": false,
     "created": 1672618894317.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,19",
-        "scrollLine": "0"
+        "cursorPosition": "22,28",
+        "scrollLine": "15"
     },
     "folds": "",
-    "lastKnownWriteTime": 1672619996,
+    "lastKnownWriteTime": 1672624310,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1672619996914,
+    "last_content_update": 1672624310576,
     "read_only": false,
     "read_only_alternatives": []
 }
