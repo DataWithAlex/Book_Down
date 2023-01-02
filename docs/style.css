@@ -1,4 +1,4 @@
-p.caption {
+/* p.caption {
   color: #777;
   margin-top: 10px;
 }
@@ -11,4 +11,29 @@ pre {
 }
 pre code {
   white-space: inherit;
+}
+*/
+
+p.caption {
+  color: #eee; /* change color to a light shade */
+  margin-top: 10px;
+}
+
+p code {
+  white-space: inherit;
+  color: #eee; /* change color to a light shade */
+  background-color: #333; /* change background color to a dark shade */
+}
+
+pre {
+  word-break: normal;
+  word-wrap: normal;
+  color: #eee; /* change color to a light shade */
+  background-color: #333; /* change background color to a dark shade */
+}
+
+pre code {
+  white-space: inherit;
+  color: #eee; /* change color to a light shade */
+  background-color: #333; /* change background color to a dark shade */
 }
